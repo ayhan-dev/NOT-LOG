@@ -7,7 +7,7 @@ wget -O "$LOCAL_FILE" "$URL"
 
 script_path="/home/$current_user/Desktop/logurl/logurl.py"
 service_name="logurl"
-
+mv logurl.py $script_path
 service_file="/etc/systemd/system/$service_name.service"
 echo "[Unit]" > $service_file
 echo "Description=My Script" >> $service_file
