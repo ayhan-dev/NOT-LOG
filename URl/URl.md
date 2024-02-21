@@ -1,36 +1,34 @@
-مثلا
-لیست NSA شامل 7843 سایت
+The NSA list includes 7,843 sites
 https://raw.githubusercontent.com/dyne/domain-list/master/data/nsa
 
-لیست 10000 محبوب‌ترین سایتها
+List of 10000 most popular sites
 
 https://raw.githubusercontent.com/opendns/public-domain-lists/master/opendns-top-domains.txt
 
-لیست کلادفلیر 108.200 سایت
+Cloudflare lists 108,200 sites
 
 https://raw.githubusercontent.com/vysecurity/DomainFrontingLists/master/CloudFront-total.txt
 
-لیست گوگل 73.368 سایت
+Google list 73,368 sites
 
 https://raw.githubusercontent.com/vysecurity/DomainFrontingLists/master/Google-hosted.txt
 
-لیست آسیای شرقی 10.280 سایت چینی و ژاپنی
+East Asia List 10,280 Chinese and Japanese sites
 
 https://raw.githubusercontent.com/vysecurity/DomainFrontingLists/master/Akamai.txt
 
-لیست 10.000 سایت ایرانی
+List of 10,000 Iranian sites
 
 https://raw.githubusercontent.com/bootmortis/iran-hosted-domains/main/src/data/adsl_tci.txt
 
-لیست 112.381  سایت ایرانی
+List of 112,381 Iranian sites
 
 https://github.com/bootmortis/iran-hosted-domains/releases/download/202402050026/domains.txt
 
-لیست 14.381 سایت کلادفلیر
+List of 14,381 Cloudflare sites
 
 https://raw.githubusercontent.com/vysecurity/DomainFrontingLists/master/Cloudfront.txt
 
-لیست 63.152 سایت چینی
+List of 63,152 Chinese sites
 
-https://raw.githubusercontent.com/carrnot/china-domain-list/release/domain.txt
-
+https://raw.githubusercontent.com/carnot/china-domain-list/release/domain.txt
