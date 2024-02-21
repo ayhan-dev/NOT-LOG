@@ -14,10 +14,6 @@ def send_requests(links):
             try:
                 response = session.get(full_link)
                 response.raise_for_status()
-                print(f"Request sent to {full_link}")
-            except requests.RequestException as e:
-                print(f"Error sending request to {full_link}: {e}")
-                continue
         time.sleep(0)
 
 def main():
